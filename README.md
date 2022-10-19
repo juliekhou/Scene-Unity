@@ -1,5 +1,4 @@
 # Homework-1-Craft-a-Scene
-## 1 Paragraph description of your scene that answers these questions:
 ### Did anything inspire you? What is your scene? What kinds of objects did you include? What is the main character in this scene?
 
 My scene is inspired by my real bedroom, or ‘Julie’s Abode.’ It’s not an exact replica (I wish I had an arcade cabinet in there)
@@ -10,7 +9,8 @@ a pink origami rat because my nickname on Discord has been “a rat” since… 
 
 ---
 
-## List of each object in your scene and how it was acquired (necessary for assigning points)
+### List of each object in your scene and how it was acquired
+
 #### Primitive GameObject
 1. Cubes
 #### [Free: House Interior](https://assetstore.unity.com/packages/3d/props/interior/free-house-interior-223416)
